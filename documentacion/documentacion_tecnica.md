@@ -37,3 +37,6 @@ Este documento contiene la documentación técnica para el proyecto STEAM del cu
 
 ## 7. Referencias y recursos
 [Listar referencias, fuentes, recursos, etc usados durante el desarrollo del proyecto]
+
+## Nota
+En este enlace encontrarás un [ejemplo como debe completarse la documentación técnica](documentacion_tecnica_ejemplo.md).
