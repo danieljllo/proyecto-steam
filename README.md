@@ -19,7 +19,7 @@ tecnicatura **Redes y Software** del [**nombre del instituto**] de **UTU**.
 - [Opcional: agregar fotos o avatar para cada integrante]
 
 ## Documentación
-- [Avances de Agosto 2025](documentacion/avance1.md)
-- [Avances de Septiembre 2025](documentacion/avance2.md)
-- [Avances de Octubre 2025](documentacion/avance3.md)
+- [Informe de Avance - Agosto 2025](documentacion/avance1.md)
+- [Informe de Avance - Septiembre 2025](documentacion/avance2.md)
+- [Informe de Avance - Octubre 2025](documentacion/avance3.md)
 - [Documentación técnica](documentacion/documentacion_tecnica.md)
